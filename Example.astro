@@ -1,0 +1,5 @@
+<!-- fails on this -->
+<button @click.outside="console.log('hi')">x</button>
+
+<!-- comment out the above, also fails on this -->
+<button x-on:click.outside="console.log('hi')">x</button>

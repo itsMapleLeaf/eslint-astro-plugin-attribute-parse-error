@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"eslint": "^8.31.0",
+		"eslint-plugin-astro": "^0.21.1"
+	}
+}
